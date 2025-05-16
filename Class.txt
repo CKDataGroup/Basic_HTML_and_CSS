@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<style>
+	h1 {background-color:yellow;}
+	p {color:blue;}
+	</style>
+	<h1>Yellow background.</h1>
+	

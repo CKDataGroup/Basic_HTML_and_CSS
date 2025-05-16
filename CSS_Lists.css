@@ -1,0 +1,12 @@
+
+/* Change the style of the unordered list */
+ul {
+    list-style-type: square;
+    color: darkgreen;
+}
+
+/* Change the style of the ordered list */
+ol {
+    list-style-type: upper-roman;
+    color: navy;
+}
